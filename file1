@@ -1,3 +1,6 @@
 The following are few basic git commands
 1) git clone "url"
 2) git status // to know the present status
+3) git add <filename> // this will go to staging area
+4) git commit (or) git commit -m "message" // this will store in local repository
+5) git push // to push into remote repository
